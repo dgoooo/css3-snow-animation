@@ -1,6 +1,6 @@
 CSS3 Snow Animation
 -------------------
-Christmas is coming up, so wanted to add a CSS3 animation, it was good for a month and then the png links went down so I am reuploading with the PNG files that got lost.
+Christmas is coming up, so I found a great CSS3 animation to use, the required PNG files where on a private server, so I am reuploading the project with the images included since the server has gone down.
 
 A [Pen](http://codepen.io/NickyCDK/pen/AIonk) by [Nicky Christensen](http://codepen.io/NickyCDK) on [CodePen](http://codepen.io/).
 
