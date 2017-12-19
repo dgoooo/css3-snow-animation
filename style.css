@@ -1,8 +1,8 @@
 body { background-color:#333; }
-#snow{
+.snow{
 	background: none;
 	font-family: Androgyne;
-	background-image: url('https://raw.githubusercontent.com/dgoooo/css3-snow-animation/master/s1.png'), url('https://raw.githubusercontent.com/dgoooo/css3-snow-animation/master/s2.png'), url('https://raw.githubusercontent.com/dgoooo/css3-snow-animation/master/s3.png');
+	background-image: url('s1.png'), url('s2.png'), url('s3.png');
 	height: 100%;
 	left: 0;
 	position: absolute;
